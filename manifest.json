@@ -1,6 +1,7 @@
 {
   "name": "SayDifferent",
   "description": "Easily find a new way of saying something with the power of OpenAI.",
+  "icons": "./assets/Untitled.png",
   "version": "1.0.0",
   "manifest_version": 3,
   "action": {
